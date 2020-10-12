@@ -17,8 +17,8 @@ For a minimum of one calendar year, the following data points are required
 1. Height-wise slots
 2. Length-wise slots
 3. Breadth-wise slots
-4. Post Date
-5. Forecast Window
+4. Post date
+5. Forecast window
 
 ### Data Transformation Pipeline:
 1. Categorical data is converted to label data
