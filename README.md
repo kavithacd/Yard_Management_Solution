@@ -13,6 +13,13 @@ For a minimum of one calendar year, the following data points are required
 4. Gate in Date (DD/MM/YYYY format)
 5. Gate out Date/Delivery Date (DD/MM/YYYY format)
 
+### User-given Inputs:
+1. Height-wise slots
+2. Length-wise slots
+3. Breadth-wise slots
+4. Post Date
+5. Forecast Window
+
 ### Data Transformation Pipeline:
 1. Categorical data is converted to label data
 2. Dwell Time = Gate Out Date - Gate In Date
